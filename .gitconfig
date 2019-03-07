@@ -1,0 +1,19 @@
+[alias]
+	s = status
+	b = branch
+	p = push
+	puoh = push -u origin HEAD
+	poh = push origin HEAD
+	t = tag
+	aa = add -A
+	cm = commit -m
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
+[user]
+	name = mthoferguson
+	email = michael.ferguson@dreamworks.com
