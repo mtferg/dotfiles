@@ -21,7 +21,6 @@ alias vp='vagrant provision'
 alias vh='vagrant halt'
 alias vagrantfile='vim ~/.vagrant.d/Vagrantfile'
 alias sneakyssh='ssh -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile /dev/null"'
-alias dwc_env='. /etc/profile.d/dwc_env.sh'
 alias tstart='thin -R config.ru start'
 alias tf_clean='rm *.tfstate*'
 
